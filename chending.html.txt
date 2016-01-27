@@ -2,6 +2,7 @@
 	<head>
 		<title> Git Test Page</title>
 		<link rel="stylesheet"type="text/css"href="style.css"/>
+		<a href="http://wwww.google.com"> Google</a>
 	</head>
 <body>
 Hello world! Chenliang Ding
